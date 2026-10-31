@@ -1,0 +1,6 @@
+{
+  "name": "ThreatGraph – Explainable Cyberattack Detection System",
+  "description": "Web-based cybersecurity monitoring system analyzing login/network events with explainable rule-based threat detection and risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
